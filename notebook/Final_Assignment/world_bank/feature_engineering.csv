@@ -1,0 +1,81 @@
+Indicator Name,Feature Interaction
+Urban population (% of total),remove
+Urban population,sum
+Urban population growth (annual %),average
+"Population, total",sum
+Population growth (annual %),average
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),average
+"Prevalence of underweight, weight for age (% of children under 5)",remove
+Improved sanitation facilities (% of population with access),remove
+"Community health workers (per 1,000 people)",remove
+Improved water source (% of population with access),average
+"Improved water source, urban (% of urban population with access)",average
+"Improved water source, rural (% of rural population with access)",average
+"Mortality rate, under-5 (per 1,000 live births)",average
+"Primary completion rate, total (% of relevant age group)",average
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",remove
+"Agriculture, value added (% of GDP)",remove
+CPIA public sector management and institutions cluster average (1=low to 6=high),average
+Ease of doing business index (1=most business-friendly regulations),remove
+Terrestrial and marine protected areas (% of total territorial area),average
+Marine protected areas (% of territorial waters),average
+Terrestrial protected areas (% of total land area),average
+"Annual freshwater withdrawals, total (% of internal resources)",average
+"Annual freshwater withdrawals, total (billion cubic meters)",sum
+Population in urban agglomerations of more than 1 million (% of total population),average
+Population living in areas where elevation is below 5 meters (% of total population),average
+Urban population living in areas where elevation is below 5 meters (% of total population),average
+Rural population living in areas where elevation is below 5 meters (% of total population),average
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",average
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),sum
+Disaster risk reduction progress score (1-5 scale,remove
+SF6 gas emissions (thousand metric tons of CO2 equivalent),sum
+PFC gas emissions (thousand metric tons of CO2 equivalent),sum
+Nitrous oxide emissions (% change from 1990),average
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),sum
+Methane emissions (% change from 1990),average
+Methane emissions (kt of CO2 equivalent),sum
+HFC gas emissions (thousand metric tons of CO2 equivalent),sum
+Total greenhouse gas emissions (% change from 1990),average
+Total greenhouse gas emissions (kt of CO2 equivalent),sum
+Other greenhouse gas emissions (% change from 1990),average
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",sum
+CO2 emissions from solid fuel consumption (% of total),remove
+CO2 emissions from solid fuel consumption (kt) ,sum
+CO2 emissions (kg per 2011 PPP $ of GDP),average
+CO2 emissions (kg per PPP $ of GDP),average
+CO2 emissions (metric tons per capita),average
+CO2 emissions from liquid fuel consumption (% of total) ,remove
+CO2 emissions from liquid fuel consumption (kt) ,sum
+CO2 emissions (kt),sum
+CO2 emissions (kg per 2010 US$ of GDP),average
+CO2 emissions from gaseous fuel consumption (% of total) ,remove
+CO2 emissions from gaseous fuel consumption (kt) ,sum
+CO2 intensity (kg per kg of oil equivalent energy use),average
+Energy use (kg of oil equivalent per capita),average
+Electric power consumption (kWh per capita),average
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",average
+Renewable energy consumption (% of total final energy consumption),average
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",remove
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",sum
+Renewable electricity output (% of total electricity output),average
+Electricity production from oil sources (% of total),average
+Electricity production from nuclear sources (% of total),average
+Electricity production from natural gas sources (% of total),average
+Electricity production from hydroelectric sources (% of total),average
+Electricity production from coal sources (% of total),average
+Access to electricity (% of population),average
+"Foreign direct investment, net inflows (% of GDP)",remove
+Cereal yield (kg per hectare),remove
+Average precipitation in depth (mm per year),average
+Agricultural irrigated land (% of total agricultural land),average
+Forest area (% of land area),remove
+Forest area (sq. km),sum
+Land area where elevation is below 5 meters (% of total land area),average
+Urban land area where elevation is below 5 meters (% of total land area),remove
+Urban land area where elevation is below 5 meters (sq. km),sum
+Rural land area where elevation is below 5 meters (% of total land area),remove
+Rural land area where elevation is below 5 meters (sq. km),sum
+Arable land (% of land area),average
+Agricultural land (% of land area),remove
+Agricultural land (sq. km),sum
